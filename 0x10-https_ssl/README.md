@@ -1,0 +1,1 @@
+This directory contains files from the "0x10. HTTPS SSL" ALX project.
